@@ -70,7 +70,10 @@ module.exports = function (config) {
             "/app/": appAssets
         },
 
-        exclude: [],
+        exclude: [
+            'app/test/e2e/**/*.js'
+            
+        ],
         preprocessors: {
             'app/components/**/*.js': ['coverage'],
             'app/services/**/*.js': ['coverage']

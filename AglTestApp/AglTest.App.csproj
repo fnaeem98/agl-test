@@ -153,6 +153,7 @@
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
     <Content Include="package.json" />
+    <Content Include="protractor.conf.js" />
     <Content Include="systemjs.config.js" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -200,6 +201,7 @@
   <ItemGroup>
     <TypeScriptCompile Include="App\app.component.ts" />
     <TypeScriptCompile Include="App\app.module.ts" />
+    <TypeScriptCompile Include="App\test\e2e\initialpage.spec.ts" />
     <TypeScriptCompile Include="App\test\specs\components\pet.component.spec.ts" />
     <TypeScriptCompile Include="App\components\pet\pet.component.ts" />
     <TypeScriptCompile Include="App\main.ts" />

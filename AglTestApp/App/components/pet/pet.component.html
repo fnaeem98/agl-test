@@ -7,7 +7,7 @@
                 <h3>{{petType}} (Sort:{{sort}})</h3>
             </div>
             <div class="col-sm-2">
-                <button type="button" class="btn btn-default btn-sm" (click)="toggleSort()">Toggle sort</button>
+                <button id="sort-btn" type="button" class="btn btn-default btn-sm" (click)="toggleSort()">Toggle sort</button>
             </div>
 
         </div>
@@ -16,9 +16,9 @@
     </div>
     
     <div class="panel-body">
-        <ol class="list-group" *ngFor="let po of owners">
+        <ol class="list-group" *ngFor="let po of owners" id="{{po.OwnerGender}}-group">
             {{po.OwnerGender}}
-            <li class="list-group-item" *ngFor="let p of po.PetNames">
+            <li class="list-group-item" *ngFor="let p of po.PetNames; let i=index" id="{{po.OwnerGender}}_item_{{i}}">
                 {{p}}
             </li>
         </ol>
