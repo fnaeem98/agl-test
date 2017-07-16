@@ -1,0 +1,14 @@
+C:\FN_personnel\AGL\AglTest\AglTestApp\bin\AngularJSWebApiEmpty.dll.config
+C:\FN_personnel\AGL\AglTest\AglTestApp\bin\AngularJSWebApiEmpty.dll
+C:\FN_personnel\AGL\AglTest\AglTestApp\bin\AngularJSWebApiEmpty.pdb
+C:\FN_personnel\AGL\AglTest\AglTestApp\bin\Newtonsoft.Json.dll
+C:\FN_personnel\AGL\AglTest\AglTestApp\bin\System.Net.Http.Formatting.dll
+C:\FN_personnel\AGL\AglTest\AglTestApp\bin\System.Web.Http.dll
+C:\FN_personnel\AGL\AglTest\AglTestApp\bin\System.Web.Http.WebHost.dll
+C:\FN_personnel\AGL\AglTest\AglTestApp\bin\Newtonsoft.Json.xml
+C:\FN_personnel\AGL\AglTest\AglTestApp\bin\System.Net.Http.Formatting.xml
+C:\FN_personnel\AGL\AglTest\AglTestApp\bin\System.Web.Http.xml
+C:\FN_personnel\AGL\AglTest\AglTestApp\bin\System.Web.Http.WebHost.xml
+C:\FN_personnel\AGL\AglTest\AglTestApp\obj\Debug\AglTestApp.csprojResolveAssemblyReference.cache
+C:\FN_personnel\AGL\AglTest\AglTestApp\obj\Debug\AngularJSWebApiEmpty.dll
+C:\FN_personnel\AGL\AglTest\AglTestApp\obj\Debug\AngularJSWebApiEmpty.pdb

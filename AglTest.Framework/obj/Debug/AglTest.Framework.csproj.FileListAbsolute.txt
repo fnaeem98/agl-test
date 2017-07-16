@@ -1,0 +1,17 @@
+C:\FN_personnel\AGL\AglTest\AglTest.Framework\bin\Debug\AglTest.Framework.dll
+C:\FN_personnel\AGL\AglTest\AglTest.Framework\bin\Debug\AglTest.Framework.pdb
+C:\FN_personnel\AGL\AglTest\AglTest.Framework\bin\Debug\Newtonsoft.Json.dll
+C:\FN_personnel\AGL\AglTest\AglTest.Framework\bin\Debug\NLog.dll
+C:\FN_personnel\AGL\AglTest\AglTest.Framework\bin\Debug\Newtonsoft.Json.xml
+C:\FN_personnel\AGL\AglTest\AglTest.Framework\bin\Debug\NLog.xml
+C:\FN_personnel\AGL\AglTest\AglTest.Framework\obj\Debug\AglTest.Framework.dll
+C:\FN_personnel\AGL\AglTest\AglTest.Framework\obj\Debug\AglTest.Framework.pdb
+C:\FN_personnel\AGL\Test-2017\AglTest.Framework\bin\Debug\AglTest.Framework.dll
+C:\FN_personnel\AGL\Test-2017\AglTest.Framework\bin\Debug\AglTest.Framework.pdb
+C:\FN_personnel\AGL\Test-2017\AglTest.Framework\bin\Debug\Newtonsoft.Json.dll
+C:\FN_personnel\AGL\Test-2017\AglTest.Framework\bin\Debug\NLog.dll
+C:\FN_personnel\AGL\Test-2017\AglTest.Framework\bin\Debug\Newtonsoft.Json.xml
+C:\FN_personnel\AGL\Test-2017\AglTest.Framework\bin\Debug\NLog.xml
+C:\FN_personnel\AGL\Test-2017\AglTest.Framework\obj\Debug\AglTest.Framework.csprojResolveAssemblyReference.cache
+C:\FN_personnel\AGL\Test-2017\AglTest.Framework\obj\Debug\AglTest.Framework.dll
+C:\FN_personnel\AGL\Test-2017\AglTest.Framework\obj\Debug\AglTest.Framework.pdb

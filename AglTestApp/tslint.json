@@ -1,0 +1,21 @@
+﻿{
+  "extends": [
+    "tslint:recommended"   
+  ],
+  "jsRules": {},
+  "rules": {
+    "quotemark": [ false ],
+    "whitespace": [ false ],
+    "member-access": false,
+    "typedef-whitespace": [ false ],
+    "no-trailing-whitespace": false,
+    "eofline": false,
+    "object-literal-sort-keys": false,
+    "no-consecutive-blank-lines": false,
+    "no-console": [ false ],
+    "trailing-comma": [false]
+
+
+  },
+  "rulesDirectory": []
+}
